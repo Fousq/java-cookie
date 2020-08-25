@@ -3,7 +3,6 @@ package kz.zhanbolat.cookie.processor.impl;
 import kz.zhanbolat.cookie.CookieValue;
 import kz.zhanbolat.cookie.processor.CookieProcessor;
 
-import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.List;
